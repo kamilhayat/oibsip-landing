@@ -1,0 +1,97 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-image: url(/img/pexels-photo-2468773.jpeg); */
+}
+
+.home img {
+    width: 100%;
+    height: 99.87vh;
+}
+
+.home .homepage .nav {
+    text-decoration: none;
+    position: relative;
+    margin-top: -97vh;
+    margin-left: 35vh;
+
+
+
+}
+
+.home .homepage .nav a {
+    margin-right: 15vh;
+
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.home .homepage .register {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 12vh;
+    background-color: rgb(119, 110, 110);
+    margin-left: 20vh;
+    border-radius: 5px;
+    padding: 10px;
+
+
+}
+
+
+
+
+.title h4,
+h2 {
+    font-family: cursive;
+    text-align: center;
+    position: relative;
+}
+
+.title h4 {
+
+    color: white;
+    margin-top: 35vh;
+    margin-bottom: -10px;
+    font-size: 12px;
+    font-weight: 500;
+
+
+}
+
+.title h2 {
+    color: green;
+    margin-bottom: 30px;
+}
+
+
+.title span {
+    color: rgb(215, 207, 207);
+    font-family: cursive;
+    margin-left: 89vh;
+    background-color: darkslategrey;
+    padding: 20px;
+    border-radius: 65px;
+    cursor: pointer;
+    font-size: 20px;
+
+}
+
+span:hover {
+    background-color: rgb(110, 108, 115);
+
+}
+
+.home .nav a:hover {
+    color: rgb(224, 93, 93);
+}
